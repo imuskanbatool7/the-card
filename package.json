@@ -2,13 +2,15 @@
   "name": "the-card",
   "version": "0.1.0",
   "private": true,
+
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": " next build",
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+
+  "dependencies":{
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.2"
